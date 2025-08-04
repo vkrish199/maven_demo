@@ -15,4 +15,4 @@ Maven -
     If it cannot find the file, it will find it from Maven Central
     We should always use safe and stable versions
     Most companies won't connect with remote repository, they will use another layer(company repo)
-* that's it
+* that's it.

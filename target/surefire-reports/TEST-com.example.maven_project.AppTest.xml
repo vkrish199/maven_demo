@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire4925293894362188312\surefirebooter9061265632139020110.jar C:\Users\user\AppData\Local\Temp\surefire4925293894362188312 2025-08-04T14-31-26_300-jvmRun1 surefire2700819284273107410tmp surefire_013592506531056058362tmp"/>
+    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire3173393980827210598\surefirebooter4567045750722165923.jar C:\Users\user\AppData\Local\Temp\surefire3173393980827210598 2025-08-05T04-12-01_250-jvmRun1 surefire10619455750586483593tmp surefire_012459500287359701389tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="c:\Users\user\Desktop\Java learnings\maven_demo\target\test-classes;c:\Users\user\Desktop\Java learnings\maven_demo\target\classes;C:\Users\user\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\user\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire4925293894362188312\surefirebooter9061265632139020110.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire3173393980827210598\surefirebooter4567045750722165923.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.example.maven_project.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.maven_project.AppTest" time="0.001"/>
 </testsuite>

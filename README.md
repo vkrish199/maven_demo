@@ -5,4 +5,4 @@ Maven -
 * refer pom.xml
 * pom xml by default shows only the things that we want to change, it won't show everything
 * there is something called effective pom which won't show everything
-* 
+* we can right-click on pom xml and under maven option we can choose show effective pom
